@@ -1,0 +1,19 @@
+# cache
+__pycache__/
+*.py[cod]
+.*cache/
+.tox/
+
+# C objects and libraries
+*.o
+*.a
+*.so
+*.so.*
+
+# distribution/build
+/build/
+/dist/
+*.egg-info/
+
+# generated HTML README
+README.html
